@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Luiza</h1>
 
 <div align="center">
-  <img src="https://i.pinimg.com/564x/b1/4f/f6/b14ff662588baa7594cb75bb22e95426.jpg" alt="Descrição da Imagem">
+  <img src="https://i.pinimg.com/564x/b1/4f/f6/b14ff662588baa7594cb75bb22e95426.jpg" alt="Descrição da Imagem" width="900">
 </div>
 
 <h4 align="center">Sou uma estudante apaixonada por Ciência da Computação e Física</h4>
