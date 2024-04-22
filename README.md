@@ -1,7 +1,9 @@
 ### Hello World, I'm Luiza
 
 ![luizapuger's Stats](https://github-readme-stats.vercel.app/api?username=luizapuger&theme=react&show_icons=true&hide_border=true&count_private=true)
+
 ![luizapuger's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizapuger&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 <!--
 **luizapuger/luizapuger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
